@@ -59,3 +59,8 @@ Wsrc/main/java/org/example/distancedata/services/implementation/DistanceServiceI
 Wsrc/main/java/org/example/distancedata/services/implementation/LanguageServiceImpl.java,4\9\49a6dc8925f770c011d88f3b904af18a6df90fdb
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+K
+.github/workflows/build.yml,f\e\fe77d5d1439f26e353a42bbd38dece2467ff6558
